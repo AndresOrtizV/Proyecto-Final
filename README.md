@@ -37,7 +37,7 @@ Facilitar la elaboración de planos de los levantamientos en QGIS, realizados en
 - Darwin Samir Padilla Vilora 🫏
 - Magda Isabella Suárez Romero 😸
 
-- 
+  
 # Alcance preliminar del proyecto:
   
   
