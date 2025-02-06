@@ -38,6 +38,6 @@
 ### - Magda Isabella Suárez Romero 😸
 
   
-# Alcance preliminar del proyecto:
+
   
   
