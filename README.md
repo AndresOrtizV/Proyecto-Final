@@ -1,5 +1,7 @@
 # Proyecto-Final
 Elaboración del proyecto final del curso Programación de Computadores - Universidad Nacional
+![image](https://github.com/user-attachments/assets/7e906e62-7ed5-4480-ac69-e2083511676c)
+
 
 ## Descripición detallada del proyecto:
 ![image](https://github.com/user-attachments/assets/f7b86121-a615-4cce-beff-fb45099fded4)
