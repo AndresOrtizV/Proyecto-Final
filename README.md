@@ -18,7 +18,7 @@
 
 # Objetivo del proyecto:
 
-## Facilitar la elaboración de planos de los levantamientos en QGIS, realizados en la materia de geomática básica.
+### Facilitar la elaboración de planos de los levantamientos en QGIS, realizados en la materia de geomática básica.
 
 
 ![image](https://github.com/user-attachments/assets/52f331f9-0b5c-4fa8-b9ae-e67bebd19d68)
