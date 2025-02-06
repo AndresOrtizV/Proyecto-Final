@@ -9,6 +9,8 @@ Es una herramienta orientada a facilitar cálculos de geomática básica en la U
 
 ## Objetivo del proyecto:
 Facilitar la elaboración de planos de los levantamientos en QGIS, realizados en la materia de geomática básica.
+![image](https://github.com/user-attachments/assets/52f331f9-0b5c-4fa8-b9ae-e67bebd19d68)
+
 
 ## Nombres de los Integrantes del grupo:
 ![image](https://github.com/user-attachments/assets/51ee722f-be61-4237-8db3-2913de09dad0)
